@@ -14,10 +14,12 @@ Com base nessa pesquisa fizemos um app mobile que reúne todas essas opções.
 ## Comanda Virtual
 Uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
 
-Ah! O valor pago é convertido em pontos para trocar por produtos AmBev. ;) (Falar com emoção)
+Ah! O valor pago é convertido em pontos para trocar por produtos AmBev.
 
-O Boteco Ideal, aqui você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
+## Boteco Ideal
+Aqui você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
 
-E para aqueles que querem fazer novas amizades, temos o Estou Aqui, um recurso que o usuário pode ativar a qualquer momento para dizer para seus contatos aonde você está e conversar com outros clientes próximos. Troquem fotos, vídeos, quem sabe não marcar a próxima saída com alguém que você conheceu na plataforma?
+## Estou Aqui
+Para aqueles que querem fazer novas amizades, temos o Estou Aqui, um recurso que o usuário pode ativar a qualquer momento para dizer para seus contatos aonde você está e conversar com outros clientes próximos. Troquem fotos, vídeos, quem sabe não marcar a próxima saída com alguém que você conheceu na plataforma?
 
 Assim como a AmBev, a Cheers! veio com o sonho de unir as pessoas por um mundo melhor.
