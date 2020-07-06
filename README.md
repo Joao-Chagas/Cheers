@@ -17,7 +17,7 @@ Em breve disponibilizaremos esta funcionalidade na qual uma mesa é gerada via Q
 O valor pago será convertido em pontos para trocar por produtos AmBev.
 
 ## Boteco Ideal
-Em breve disponibilizaremos uma funcionalidade em que você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
+Em breve disponibilizaremos uma funcionalidade em que você encontra todos os bares com a sua temática favorita. A ferramenta irá permitir também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
 
 ## Estou Aqui
 Para aqueles que querem fazer novas amizades, temos o Estou Aqui, um recurso que o usuário pode ativar a qualquer momento para dizer para seus contatos aonde você está e conversar com outros clientes próximos. Troquem fotos, vídeos, quem sabe não marcar a próxima saída com alguém que você conheceu na plataforma?
