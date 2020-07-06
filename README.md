@@ -12,12 +12,12 @@ Verificamos que 73% dos entrevistados gostariam de fazer o pagamento online, sem
 Com base nessa pesquisa fizemos um app mobile que reúne todas essas opções.
 
 ## Comanda Virtual
-Uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
+Em breve disponibilizaremos esta funcionalidade na qual uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
 
 Ah! O valor pago é convertido em pontos para trocar por produtos AmBev.
 
 ## Boteco Ideal
-Aqui você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
+Em breve disponibilizaremos uma funcionalidade em que você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
 
 ## Estou Aqui
 Para aqueles que querem fazer novas amizades, temos o Estou Aqui, um recurso que o usuário pode ativar a qualquer momento para dizer para seus contatos aonde você está e conversar com outros clientes próximos. Troquem fotos, vídeos, quem sabe não marcar a próxima saída com alguém que você conheceu na plataforma?
