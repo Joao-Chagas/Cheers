@@ -14,7 +14,7 @@ Com base nessa pesquisa fizemos um app mobile que reúne todas essas opções.
 ## Comanda Virtual
 Em breve disponibilizaremos esta funcionalidade na qual uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
 
-Ah! O valor pago é convertido em pontos para trocar por produtos AmBev.
+O valor pago será convertido em pontos para trocar por produtos AmBev.
 
 ## Boteco Ideal
 Em breve disponibilizaremos uma funcionalidade em que você encontra todos os bares com a sua temática favorita. A ferramenta permite também ver se o local está mais agitado ou reservado dependendo do número de mesas abertas no app.
