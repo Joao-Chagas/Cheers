@@ -11,7 +11,8 @@ Verificamos que 73% dos entrevistados gostariam de fazer o pagamento online, sem
 
 Com base nessa pesquisa fizemos um app mobile que reúne todas essas opções.
 
-Com a Comanda Virtual, uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
+## Comanda Virtual
+Uma mesa é gerada via QR em que múltiplos consumidores podem se conectar, pagar e dividir sua comanda conforme seu consumo, além de receber aviso a cada pedido adicionado em sua comanda.
 
 Ah! O valor pago é convertido em pontos para trocar por produtos AmBev. ;) (Falar com emoção)
 
